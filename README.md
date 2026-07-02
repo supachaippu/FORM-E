@@ -3,7 +3,9 @@
 ระบบเปรียบเทียบข้อมูลรายการสินค้าระหว่างเอกสาร **Excel (Invoice/Packing List)** และ **PDF (FORM E)** โดยแยกการตรวจจับเป็น 4 หัวข้อสำคัญ ได้แก่ **English Name, Part Number, Qty, และ HS Code** พร้อมไฮไลต์สีแดง-เขียวแสดงความผิดพลาดและจับคู่ได้อย่างชัดเจน
 
 ## 🚀 ช่องทางการเข้าใช้งานออนไลน์ (Streamlit Cloud)
-ท่านสามารถรันแอปพลิเคชันออนไลน์ผ่านหน้าเว็บเบราว์เซอร์ได้ทันทีโดยไม่ต้องติดตั้งโปรแกรมใดๆ บนเครื่องคอมพิวเตอร์ของคุณ
+ท่านสามารถติดตั้งและรันหน้าเว็บแอปพลิเคชันออนไลน์นี้ได้ง่ายๆ 24 ชั่วโมงฟรี โดยการกดปุ่มด้านล่างนี้เพื่อเชื่อมโยงและรันบน Streamlit Community Cloud:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=supachaippu/FORM-E&branch=main&mainModule=compare_streamlit.py)
 
 ## 💻 วิธีการติดตั้งและรันใช้งานเองในเครื่อง (Local Setup)
 
